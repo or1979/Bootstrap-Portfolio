@@ -1,0 +1,86 @@
+body {
+    background:url("../images/concrete_seamless.png"); 
+        font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+        font-size: 18px;
+        line-height: 1.5em;
+        color: #777777;
+    }   
+    
+#masthead {
+        position: fixed;
+        /* z-index: 99; */
+        width: 100%;
+        margin: 0 0 30px;
+        /* overflow: auto; */
+        color: #ffffff;
+        background: #ffffff;
+        border-bottom: 2px solid #cccccc;
+    }
+
+
+.container {
+        width: 100%;
+        max-width: 960px;
+        margin: 0 auto;
+        clear: both;
+    }
+
+#logo {
+        float: left;
+        width: 250px;
+        height: 90px;
+        font-family: Georgia,Times,"Times New Roman",serif;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 90px;
+        color: #ffffff;
+        text-align: center;
+        text-decoration: none;
+        background: #4aaaa5;
+    }
+
+nav {
+        float: right;
+        margin-top: 25px;
+    }
+
+.main-container {
+        background-color: #ffffff;
+        border-color: #dddddd;
+        width: 960px;
+        padding: 20px 20px 20px 0px;
+        margin: 40px auto;
+        overflow: auto;
+    }
+
+.main-section {
+        float: left;
+        width: 100%;
+        max-width: 960px;
+        padding: 30px;
+        margin: 0 0 40px;
+        background: #ffffff;
+        border: 1px solid #dddddd;
+    }
+    
+h1 {
+        padding-bottom: 20px;
+        font-size: 30px;
+        line-height: 49px;
+        border-bottom: 3px solid #dddddd;
+    }
+
+.my image {
+        height: auto;
+        width: 200px;
+        float: left;
+        margin-top: 10px;
+        margin-right: 25px;
+    }
+    
+    
+      
+    
+    
+    
+    
